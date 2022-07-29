@@ -1,0 +1,36 @@
+body{
+    background-color: palevioletred;
+}
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.wrap{
+    width:400px;
+     height: auto;
+     background: teal;
+     padding: 15px;
+}
+input[type=text] {
+    width: 100%;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "montserrat", "sans serif" ;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+input[type=button] {
+    width: 89px;
+    padding: 10px;
+    font-size:10px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: orange;
+}
+#del{
+    width: 100%;
+    background-color: darkmagenta;
+}

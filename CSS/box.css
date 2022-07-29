@@ -1,0 +1,13 @@
+.container{
+    border-radius: 15px;
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    counter-reset: unset;
+}
+
+.container:hover {
+    border:3px solid;
+    border-color: green orange;
+    /*transform: scale(10%);*/
+}
